@@ -106,11 +106,7 @@ The tests cover input validation and key output behavior for the demonstration u
 
 My CV describes experience and training in functional genomics, vaccine immunoinformatics, protein structure modelling, docking and virtual screening, ADMET analysis, and bulk/single-cell RNA-seq. `docs/CV_PROJECT_MAP.md` explains how this public code portfolio relates to those areas without releasing unpublished project data or claiming that every CV activity is implemented here as software.
 
-## Research integrity and unpublished work
 
-This repository is intentionally separate from my unpublished study files. It contains no original research FASTA datasets, unpublished phylogenetic trees, confidential docking results, manuscript tables, private accession mappings, or raw sequencing files. Before publishing changes, I will inspect staged files and confirm that any data are public or explicitly cleared for release.
-
-Synthetic data are labelled as synthetic. Demonstration scripts should not be described as the original code used to produce a paper's results unless that is factually correct and approved for release. AI-assisted drafting or debugging should be disclosed where required by the relevant institution or project.
 
 ## A note to reviewers
 
