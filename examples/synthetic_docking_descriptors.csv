@@ -1,0 +1,6 @@
+compound_id,docking_score,molecular_weight,logp,hbd,hba,tpsa
+SYN_A,-8.1,355.4,2.8,2,6,82.1
+SYN_B,-7.4,525.0,4.2,3,8,105.3
+SYN_C,-6.9,290.2,1.1,1,4,55.0
+SYN_D,-8.7,410.5,5.7,4,9,138.2
+SYN_E,-7.8,470.1,3.9,6,7,122.4
